@@ -38,7 +38,10 @@ const optionChanged = data=>{
             y: otu_ids.slice(0,10).map(id=>`OTU ${id}`).reverse(),
             text: otu_labels.slice(0,10).reverse(),
             type: 'bar',
-            orientation: 'h'
+            orientation: 'h',
+            marker: {
+                color: 'green'
+            }
         }];
         const barLayout = {
             title: 'Top 10 OTUs',
