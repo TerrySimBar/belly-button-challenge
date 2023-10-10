@@ -1,7 +1,10 @@
 # belly-button-challenge
 
-A project that uses JavaScript with HTML and Plotly to build an interactive dashboard for exploring a dataset which catalogs the microbes that colonize human navels.
 
+A project that uses JavaScript with HTML and Plotly to build an interactive dashboard for exploring a dataset which catalogs the microbes that colonize human navels.
+<br>
+Click this link for deployment: https://terrysimbar.github.io/belly-button-challenge/
+<br>
 <img src="Images/dash.png" width="1000">   
 
 ## Table of Contents
