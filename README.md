@@ -51,7 +51,7 @@ The HTML file (`index.html`) in this project is structured as follows:
 
 4. **Body Section** `<body>` contains the main content of the webpage, including the dashboard elements.
 
-5. **Dashboard Structure**: The interactive dashboard is structured within the '<body>', as follows:
+5. **Dashboard Structure**: The interactive dashboard is structured within the `<body>`, as follows:
    - **Jumbotron**: A prominent section at the top of the page containing the project title and a brief description.
    - **Test Subject ID Dropdown**: A dropdown menu `<select>` allows users to select a test subject ID, and display the corresponding charts and graphs.    
    - **Demographic Info Panel**: A panel displaying demographic information related to the selected test subject.
