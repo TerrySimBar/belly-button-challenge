@@ -93,7 +93,7 @@ For the complete code and detailed implementation, please refer to the `app.js` 
 
 ---
 #### Usage
-1. Ensure that ypu have all the necessary files/links/scripts. 
+1. Ensure that you have all the necessary files/links/scripts. 
 2. Load the project files in an appropriate code editor such as Jupyter Notebook. 
 3. Copy the HTML File path and paste it in your browser to view the dashboard.
 
