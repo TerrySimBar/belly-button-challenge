@@ -10,8 +10,9 @@ Click this link for deployment: https://terrysimbar.github.io/belly-button-chall
 
 ## Table of Contents
 #### Introduction
+#### Features
 #### Requirements & Dependencies
-#### Scripting and Visualizations
+#### Project Structure
 #### Usage
 #### Contributing
 #### License
